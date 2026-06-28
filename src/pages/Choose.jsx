@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import "../styles/Choose.css";
+import "../styles/choose.css";
 
 import bgImage from "../assets/abc.png";
 
